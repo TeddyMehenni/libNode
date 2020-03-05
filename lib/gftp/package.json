@@ -1,0 +1,14 @@
+{
+  "name": "gftp",
+  "version": "1.0.0",
+  "description": "A Nodejs lib for ftp client/server exchange.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ftp"
+  ],
+  "author": "Noyda",
+  "license": "ISC"
+}
